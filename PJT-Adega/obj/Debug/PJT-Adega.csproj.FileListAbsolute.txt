@@ -1,0 +1,648 @@
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\bin\Debug\PJT-Adega.exe.config
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\bin\Debug\PJT-Adega.exe
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\bin\Debug\PJT-Adega.pdb
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Form1.resources
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Properties.Resources.resources
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.GenerateResource.cache
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.exe
+C:\Users\joao_\Desktop\Workspace\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csprojAssemblyReference.cache
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Form1.resources
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.GenerateResource.cache
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.CoreCompileInputs.cache
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Form2.resources
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Azure.Core.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Azure.Identity.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Buffers.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Memory.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Security.AccessControl.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Permissions.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Json.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.ValueTuple.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Azure.Core.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Azure.Identity.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Buffers.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Memory.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Security.AccessControl.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Permissions.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Json.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\System.ValueTuple.xml
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.CopyComplete
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\PJT-Adega.exe.config
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\PJT-Adega.exe
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\PJT-Adega.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Azure.Core.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Azure.Identity.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Buffers.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Memory.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Security.AccessControl.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Permissions.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Json.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.ValueTuple.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Azure.Core.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Azure.Identity.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Buffers.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Memory.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Security.AccessControl.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Permissions.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Json.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\System.ValueTuple.xml
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Form1.resources
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Form2.resources
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Properties.Resources.resources
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.GenerateResource.cache
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.exe
+C:\Users\joao_\Desktop\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Azure.Core.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Azure.Identity.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Buffers.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Memory.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Security.AccessControl.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Permissions.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Json.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.ValueTuple.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Azure.Core.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Azure.Identity.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Buffers.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Memory.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Security.AccessControl.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Permissions.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Json.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\System.ValueTuple.xml
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csprojAssemblyReference.cache
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Form1.resources
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Form2.resources
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.GenerateResource.cache
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.CoreCompileInputs.cache
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.CopyComplete
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.Properties.Resources.resources
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.exe.config
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.exe.manifest
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.application
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.exe
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.pdb
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.exe.manifest
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.application
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.exe
+C:\Users\vryam\Downloads\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.exe.config
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.exe.manifest
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.application
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.exe
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.pdb
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.Properties.Resources.resources
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.exe.manifest
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.application
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.exe
+C:\Users\vryam\OneDrive\Documentos\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.exe.config
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.exe.manifest
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.application
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.exe
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\AdegaWA.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Azure.Core.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Azure.Identity.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Buffers.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Memory.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Security.AccessControl.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Permissions.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Json.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.ValueTuple.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Azure.Core.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Azure.Identity.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Buffers.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Memory.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Security.AccessControl.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Permissions.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Text.Json.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\System.ValueTuple.xml
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.AssemblyReference.cache
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Form1.resources
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\PJT_Adega.Form2.resources
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.Properties.Resources.resources
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.GenerateResource.cache
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\PJT-Adega.csproj.CoreCompileInputs.cache
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.exe.manifest
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.application
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.exe
+C:\Users\joao_\Desktop\PJT-Adega (1)\PJT-Adega\PJT-Adega\obj\Debug\AdegaWA.pdb
